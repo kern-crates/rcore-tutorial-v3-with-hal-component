@@ -1,0 +1,15 @@
+{
+  "name": "rcore-tutorial-v3-with-hal-component",
+  "description": "This is a simple OS for education.",
+  "authors": [{
+    "name": "yfblock",
+    "email": "321353225@qq.com"
+  },
+  {
+    "name": "chyyuu",
+    "email": "yuchen@tsinghua.edu.cn"
+  }],
+  "keywords": ["os", "kernel", "monolithic kernel"],
+  "repo": "kern-crates/rcore-tutorial-v3-with-hal-component",
+  "doc_url": "https://github.com/kern-crates/rcore-tutorial-v3-with-hal-component/wiki"
+}

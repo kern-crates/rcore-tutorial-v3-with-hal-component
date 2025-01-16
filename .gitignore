@@ -24,3 +24,4 @@ easy-fs/target/*
 easy-fs-fuse/Cargo.lock
 easy-fs-fuse/target/*
 pushall.sh
+/bin
